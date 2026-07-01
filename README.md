@@ -1,29 +1,36 @@
-# excel-sales-dashboard
-Interactive Excel dashboards built using 131,000+ customer records for sales and customer analysis.
-
 # 📊 Excel Sales Dashboard
 
 ## Overview
 
-This project is an interactive Excel dashboard built using a dataset of over **131,000 customer records**. The dashboard provides insights into sales performance, customer behavior, revenue, profit, and product performance.
+This project showcases an interactive Microsoft Excel dashboard built using a dataset of over **131,000 customer records**. The dashboard provides business insights through data visualization and interactive reporting.
 
-## Dashboard Features
+This project is part of my learning journey in Data Analysis while building strong fundamentals for my long-term goal of becoming an AI Engineer.
 
-- Executive Sales Dashboard
-- Customer & Market Intelligence Dashboard
-- Product Performance Dashboard
-- Interactive Slicers & Filters
-- KPI Cards
-- Pivot Tables
-- Pivot Charts
+---
 
-## Key Insights
+## Features
 
-- Revenue Analysis
-- Profit Analysis
+- 📈 Executive Sales Dashboard
+- 👥 Customer & Market Intelligence Dashboard
+- 📊 Product Performance Analysis
+- 🎯 KPI Cards
+- 📌 Interactive Slicers
+- 📉 Pivot Charts
+- 📋 Pivot Tables
+
+---
+
+## Key Metrics
+
+- Total Customers
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Sales Performance
 - Customer Distribution
 - Product Performance
-- Regional Sales Analysis
+
+---
 
 ## Tools Used
 
@@ -32,25 +39,56 @@ This project is an interactive Excel dashboard built using a dataset of over **1
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-
-## Dataset
-
-- 131,000+ Customer Records
-
-## Dashboard Preview
-
-(Add your dashboard screenshots here.)
-
-## Learning Outcome
-
-This project helped me strengthen my skills in:
-
-- Data Cleaning
-- Data Analysis
 - Dashboard Design
-- Business Reporting
-- Excel Visualization
 
 ---
 
-⭐ This project is part of my journey toward becoming an AI Engineer by building strong data analysis fundamentals.
+## Dataset
+
+- **131,000+ Customer Records**
+
+---
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+<img width="1888" height="982" alt="Screenshot 2026-06-25 222812" src="https://github.com/user-attachments/assets/ec2188a0-fab0-4174-960c-64ba7edb0328" />
+
+
+---
+
+### Customer & Market Intelligence Dashboard
+
+<img width="1890" height="1000" alt="Screenshot 2026-07-01 104828" src="https://github.com/user-attachments/assets/43be8405-5d0f-4faa-899b-50f40744abd1" />
+
+
+---
+
+### Product Performance Dashboard
+
+<img width="1917" height="1077" alt="Screenshot 2026-07-01 104839" src="https://github.com/user-attachments/assets/406ba72d-0252-4279-9888-c3471c006697" />
+
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Reporting
+
+---
+
+## Learning Outcome
+
+Through this project, I gained practical experience in creating interactive dashboards, analyzing large datasets, and presenting business insights effectively using Microsoft Excel.
+
+This project represents an important step in my journey toward Artificial Intelligence by strengthening my data analysis fundamentals.
+
+---
+
+⭐ Thank you for visiting this repository.
